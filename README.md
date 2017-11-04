@@ -1,2 +1,2 @@
 # groete-wereld
-My first GitHub repository. Follows the tutorial.
+This is my first GitHub repository. I am following the tutorial.
